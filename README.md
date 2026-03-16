@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @JakeWefers
-- 👀 I’m interested in Frühshoppen
-- 🌱 I’m currently learning GitHub
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jakeerik@freenet.de
 
 <!---
